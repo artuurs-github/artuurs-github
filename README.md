@@ -10,4 +10,4 @@ My toolbox contains:
 
 
 
-If you want to contact me, then you can reach me here: https://www.linkedin.com/in/arturs-dancis/
+If you want to contact me, then you can reach me here: https://www.linkedin.com/in/artuurs-dancis/

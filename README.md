@@ -3,8 +3,8 @@ Hello!
 My name is Artūrs @artuurs-github, and I am a Software Developer.
 
 Currently I am working on various front-end web development projects that can be found here. Recent projects:
-https://github.com/artuurs-github/react-gh-pages
-https://github.com/artuurs-github/vue-gh-pages
+- https://github.com/artuurs-github/react-gh-pages
+- https://github.com/artuurs-github/vue-gh-pages
 
 My toolbox contains:
 

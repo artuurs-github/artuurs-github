@@ -2,7 +2,9 @@ Hello!
 
 My name is Artūrs @artuurs-github, and I am a Software Developer.
 
-Currently I am working on various front-end web development projects that can be found here.
+Currently I am working on various front-end web development projects that can be found here. Recent projects:
+https://github.com/artuurs-github/react-gh-pages
+https://github.com/artuurs-github/vue-gh-pages
 
 My toolbox contains:
 
@@ -10,4 +12,4 @@ My toolbox contains:
 
 
 
-If you want to contact me, then you can reach me here: https://www.linkedin.com/in/artuurs-dancis/
+If you want to contact me, you can reach me here: https://www.linkedin.com/in/artuurs-dancis/

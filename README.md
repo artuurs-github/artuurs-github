@@ -3,8 +3,13 @@ Hello!
 My name is Artūrs @artuurs-github, and I am a Software Developer.
 
 Currently I am working on various front-end web development projects that can be found here. Recent projects:
-- https://github.com/artuurs-github/react-rick-and-morty
-- https://github.com/artuurs-github/vue-todo-variations
+- [react-rick-and-morty](https://github.com/artuurs-github/react-rick-and-morty)
+- [react-multistep-form](https://github.com/artuurs-github/react-multistep-form)
+- [react-currency-selector](https://github.com/artuurs-github/react-currency-selector)
+- [vue-todo-variations](https://github.com/artuurs-github/vue-todo-variations)
+- [angular-joke-app](https://github.com/artuurs-github/angular-joke-app)
+- [html-travelline-landing-page](https://github.com/artuurs-github/html-travelline-landing-page)
+- [html-john-landing-page](https://github.com/artuurs-github/html-john-landing-page)
 
 My toolbox contains:
 

@@ -3,7 +3,6 @@ Hello!
 My name is Artūrs @artuurs-github, and I am a Software Developer.
 
 Currently I am working on various front-end web development projects that can be found here. Recent projects:
-- [react-hockey-app](https://github.com/artuurs-github/react-hockey-app) (in progress)
 - [react-rick-and-morty](https://github.com/artuurs-github/react-rick-and-morty)
 - [react-multistep-form](https://github.com/artuurs-github/react-multistep-form)
 - [react-currency-selector](https://github.com/artuurs-github/react-currency-selector)
